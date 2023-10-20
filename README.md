@@ -14,7 +14,7 @@ Bu proje, React ve Django Rest Framework kullanılarak geliştirilen bir basit n
 Projeyi yerel makinanıza klonlayın:
 
 
-git clone https://github.com/sizin-kullanici-adi/React-NoteApp-With-Django-Rest-API.git
+git clone https://github.com/EmreAksin/React-NoteApp-With-Django-Rest-API.git
 
 
 ## Kurulum
